@@ -1,5 +1,5 @@
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Machio%20Brian) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Machio%20Brian) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@machiobrian_) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/machio-brian-530417200) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Machio%20Brian) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@machiobrian_) 
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
