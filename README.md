@@ -1,6 +1,6 @@
 > Ever seen machines working together like they share a brain? That's what I create as a Mechatronic Engineer – intelligent systems that just click.
 >
-> My diverse skill set spans from low-level programming to high-level machine learning and cloud technologies.
+> My skillset spans from low-level programming to high-level machine learning and cloud technologies.
 
 ### ![MDN](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white) I READ DOCS.
 
