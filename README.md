@@ -1,4 +1,3 @@
-# Mechatronic Engineer
 Ever seen machines working together like they share a brain? That’s what I create – intelligent systems that just click.
  
 I thrive at the intersection of low-level programming, machine learning, and cloud technologies. 
