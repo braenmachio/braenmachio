@@ -3,8 +3,6 @@ Ever seen machines working together like they share a brain? That’s what I cre
 I thrive at the intersection of low-level programming, machine learning, and cloud technologies. 
 
 - If it moves, computes, or learns, I’ve probably worked on it.  
-- I live and breathe documentation and technical papers to drive my builds! 
-
 ---
 
 ### **Programming Languages**  
