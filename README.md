@@ -5,4 +5,4 @@ I thrive at the intersection of low-level programming, machine learning, and clo
 - If it moves, computes, or learns, I’ve probably worked on it.  
 ---
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)  ![Dell Laptop](https://img.shields.io/badge/Dell_Laptop-007DB8?style=flat&logo=dell&logoColor=white)
+![Omarchy](https://img.shields.io/badge/Omarchy-222222?style=for-the-badge&logo=Omarchy&logoColor=9ECE6A) ![Dell Laptop](https://img.shields.io/badge/Dell_Laptop-007DB8?style=flat&logo=dell&logoColor=white)
